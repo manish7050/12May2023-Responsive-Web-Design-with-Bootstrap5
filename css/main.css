@@ -1,0 +1,109 @@
+/* All Fonts List */
+@font-face {
+    font-family: 'alex';
+    src: url("../fonts/alex.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'kaushan';
+    src: url("../fonts/kaushan.otf") format("opentype");
+}
+@font-face {
+    font-family: 'alfa';
+    src: url("../fonts/alfa.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'amaranth';
+    src: url("../fonts/amaranth.otf") format("opentype");
+}
+@font-face {
+    font-family: 'arimo';
+    src: url("../fonts/arimo.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'balgruf';
+    src: url("../fonts/balgruf.otf") format("opentype");
+}
+@font-face {
+    font-family: 'bevan';
+    src: url("../fonts/bevan.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'bitter';
+    src: url("../fonts/bitter.otf") format("opentype");
+}
+@font-face {
+    font-family: 'bpreplay';
+    src: url("../fonts/bpreplay.otf") format("opentype");
+}
+@font-face {
+    font-family: 'cabin';
+    src: url("../fonts/cabin.otf") format("opentype");
+}
+@font-face {
+    font-family: 'changa';
+    src: url("../fonts/changa.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'chivo';
+    src: url("../fonts/chivo.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'chunk';
+    src: url("../fonts/chunk.otf") format("opentype");
+}
+@font-face {
+    font-family: 'chunkprint';
+    src: url("../fonts/chunkprint.otf") format("opentype");
+}
+@font-face {
+    font-family: 'diner';
+    src: url("../fonts/diner.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'droid';
+    src: url("../fonts/droid.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'economica';
+    src: url("../fonts/economica.otf") format("opentype");
+}
+@font-face {
+    font-family: 'enigma';
+    src: url("../fonts/enigma.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'fengardo';
+    src: url("../fonts/fengardo.otf") format("opentype");
+}
+@font-face {
+    font-family: 'folks';
+    src: url("../fonts/folks.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'philosopher';
+    src: url("../fonts/philosopher.ttf") format("truetype");
+}
+
+header {
+    height: 110px;
+    background-color: #9933cc;
+    font-family: 'philosopher', Arial, Helvetica, sans-serif;
+}
+main {
+    height: 1200px;
+}
+main > section {
+    font-family: 'chunkprint', Arial, Helvetica, sans-serif;
+}
+main > section img {
+   width: 100%;
+}
+
+.f-family {
+    font-family: 'droid', Arial, Helvetica, sans-serif;
+}
+
+footer {
+    background-color: #0099cc;
+    height: 69px;
+}
